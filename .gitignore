@@ -1,0 +1,20 @@
+# Archivos y carpetas no deseados de Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Pp]rojectSettings/
+[Aa]ssets/
+
+# Archivos y carpetas de Visual Studio
+.vs/
+*.sln
+*.csproj
+.vsconfig
+
+# Otros archivos temporales o de configuración
+.plastic/
+UserSettings/
+hidden_changes.conf
+ignore.conf
